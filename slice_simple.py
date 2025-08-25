@@ -3,3 +3,4 @@ def text():
     print(texto[:3].lower())
     print(texto[2:5].lower())
     print(texto.lower())
+text()
