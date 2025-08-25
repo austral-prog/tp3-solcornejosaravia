@@ -1,5 +1,4 @@
-def text():
-    texto= 'Awesome'
-    print(texto[:3].lower())
-    print(texto[2:5].lower())
-    print(texto.lower())
+def slice():
+    word=input('')
+    print(word[4::2])
+slice()
