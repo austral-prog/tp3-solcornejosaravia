@@ -1,6 +1,6 @@
 nombre = input("Ingrese un nombre: ")
 
-nombre = nombre.lower()   # para ignorar mayúsculas
+nombre = nombre.lower()
 
 print("Contiene a:", "a" in nombre)
 print("Contiene e:", "e" in nombre)
