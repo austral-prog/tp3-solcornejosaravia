@@ -1,3 +1,4 @@
 def slice_advanced():
-    word=input('')
-    print(word[4::2])
+    texto = input()
+    resultado = texto[4::2]    
+    print(resultado)
